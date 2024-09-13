@@ -12,7 +12,7 @@ const CircularProgress: React.FC<CircularProgressProps> = ({ percentage, label }
   const strokeDashoffset = strokeDasharray - (percentage / 100) * strokeDasharray;
 
   return (
-    <div className="flex flex-col items-center">
+    <div className="flex flex-col  items-center">
       <svg
         width={120}
         height={120}

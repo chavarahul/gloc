@@ -9,7 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@chakra-ui/react": "^2.8.2",
+    "@chakra-ui/system": "^2.6.2",
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@next/font": "^14.2.11",
+    "@saas-ui/charts": "^0.11.9",
     "chart.js": "^4.4.4",
+    "framer-motion": "^11.5.4",
     "next": "14.2.10",
     "react": "^18",
     "react-chartjs-2": "^5.2.0",
